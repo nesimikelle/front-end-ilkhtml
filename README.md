@@ -1,2 +1,6 @@
-# front-end-ilkhtml
-Front-end eğitimi kapsamında ilk html sayfası
+---
+
+# İlk Html
+## Front-end eğitimi kapsamında ilk html sayfası.
+
+---
